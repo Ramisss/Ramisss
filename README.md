@@ -1,7 +1,7 @@
 ### Assalomu Aleykum!! 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...Click up project(Task manager)
 - 🌱 I’m currently learning ...Java, Spring, SQL, React
